@@ -146,7 +146,7 @@ Engineered real-time geospatial safety platform processing **500+ daily incident
 
 <div align="center">
 
-> 💫 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+ 💫 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 **Let's build something meaningful together!**
 
