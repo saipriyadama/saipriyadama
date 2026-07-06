@@ -62,6 +62,7 @@ Fully serverless AWS platform delivering phone-call, SMS, and email medication r
 ## 🎓 Education
 
 **M.S. in Computer Science** (Secondary Major: Big Data) — Florida Atlantic University · Jan 2023 – Dec 2024
+
 **B.Tech in Computer Science** — Malla Reddy Institute of Engineering and Technology
 
 ---
