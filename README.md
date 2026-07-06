@@ -1,153 +1,71 @@
-# 👋 Hi there! I'm Sai Priya
+# 👋 Hi, I'm Sai Priya Adama
 
-<div align="center">
-
-### `Data Scientist · AI Engineer`
-
-</div>
+### `AI Engineer · LLMs · RAG · Agentic AI`
 
 ---
 
 ## 🚀 About Me
 
-Currently a **Data Scientist** at **NextEra Energy**, building production-grade ML models, LLM-powered applications, and multi-agent AI systems that drive measurable business impact. I'm passionate about turning ambiguous business problems into measurable outcomes — and exploring the frontier of agentic AI, LLM fine-tuning, and RAG along the way.
+AI Engineer at **NextEra Energy**, where I build production GenAI systems — an enterprise RAG assistant on the Claude API, hybrid retrieval pipelines, and automated LLM evaluation gates that run before every release. Previously built NLP models at **Microsoft** and ML systems at **Flipkart** and **Abbott**.
 
-- 🏗️ **Currently working on:** **Multi-Agent AI Systems**, **LLM Fine-tuning**, and **Production ML Pipelines**
-- 🎓 **M.S. in Computer Science** with Secondary Major in Big Data (Florida Atlantic University)
-- 💼 **Previously at:** Microsoft, Amazon — building ML products serving 10M+ users
-- 💡 **Expertise:** LLMs, Multi-Agent Systems, MCP, RAG Pipelines, Cloud Infrastructure, A/B Testing
+My focus: taking GenAI from demo to production — systems that are measurable, observable, and honest about what they don't know.
+
+- 🏗️ **Currently working on:** multi-agent AI systems, RAG evaluation, and LLM fine-tuning
+- 🎓 **M.S. in Computer Science** (Secondary Major: Big Data) — Florida Atlantic University
 - 📍 **Based in:** West Palm Beach, Florida
-- 📬 **Reach me at:** [saipriyaadama@gmail.com](mailto:saipriyaadama@gmail.com)
-
----
-
-## 💼 Professional Experience
-
-**Data Scientist** @ NextEra Energy | February 2025 – Present
-
-**Graduate Teaching Assistant — AI & Python** @ Florida Atlantic University | January 2024 – December 2024
-
-**Data Scientist** @ Microsoft | August 2021 – December 2022
-
-**Data Scientist** @ Flipkart | March 2020 – July 2021
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### AI / ML & Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logoColor=white)
-
-### LLMs & Agentic AI
-
-![Claude](https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Data Engineering & ETL
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Databases & Visualization
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
+- 📬 **Reach me at:** priyaadama123@gmail.com
 
 ---
 
 ## 🏆 Featured Projects
 
-### **FlightSage — AI Travel Strategist**
-Built a 4-agent AI system (Strategist, Search, Knowledge, Synthesis) coordinated via Orchestrator pattern using **Claude Opus 4.7** and **MCP**. Implemented RAG with **ChromaDB** achieving **85%+ relevance accuracy** across travel knowledge base, with full context retention across 10+ conversation turns.
+### FlightSage — AI Travel Strategist
+Four specialized agents — intent parsing, deterministic flight search, RAG retrieval over curated travel data, and response synthesis — coordinated by an orchestrator. Isolating LLM calls to specific agents reduced hallucination risk and kept core search logic deterministic and testable.
+*Claude API · ChromaDB · Python · Streamlit*
 
-### **JobReach AI — LLM-Powered Outreach Generator**
-Fine-tuned **LLaMA 3.1-8B** using **SFT + LoRA** on NVIDIA A10G GPUs with 4,091 synthetic samples — achieving **40% higher message relevance** and **60% reduction in generic phrasing**. Deployed via **FastAPI** with sub-200ms inference latency in containerized Docker environment.
-
-### **Elderly Voice — Serverless Healthcare Reminder Platform**
-Built a fully serverless **AWS** platform (Lambda, Connect, Polly, DynamoDB) delivering real phone calls, SMS, and email medication reminders — **improving medication adherence by 40%**. Event-driven architecture processes 500+ daily reminders with **99.9% delivery reliability**.
-
-### **Safety Mapper — Geospatial Real-time Analytics**
-Engineered real-time geospatial safety platform processing **500+ daily incidents** across 10+ city zones — integrating 9 Google Maps APIs and AI-driven incident classification. Improved safe route recommendations by **35%** and reduced incident response identification time by **28%**.
+### Elderly Voice — Serverless Healthcare Reminder Platform
+Fully serverless AWS platform delivering phone-call, SMS, and email medication reminders through an event-driven architecture designed for high-volume, reliable delivery.
+*AWS Lambda · Amazon Connect · Polly · DynamoDB*
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠️ Technical Stack
 
-**Master of Science in Computer Science** *(Secondary Major: Big Data)* — Florida Atlantic University, Boca Raton, FL | Jan 2023 – Dec 2024
+**Languages** — Python, SQL, Bash, Git
 
-**Bachelor of Science in Computer Science** — Malla Reddy Institute of Engineering and Technology, India
+**Generative AI & LLMs** — Claude, GPT/OpenAI, Gemini, LLaMA, Mistral, Hugging Face Transformers, LLM Application Development, RAG, Agentic AI / AI Agents, Multi-Agent Systems, Prompt Engineering (Few-Shot, CoT, ReAct, Tool Calling), Fine-Tuning (LoRA, QLoRA, SFT), Embeddings, Semantic/Hybrid Search
 
-### Certifications:
+**AI Frameworks & Vector Databases** — LangChain, LangGraph, LlamaIndex, CrewAI, Model Context Protocol (MCP), Pinecone, ChromaDB, FAISS, pgvector, Elasticsearch (BM25)
 
-- IBM Generative AI Engineering with LLMs (2026)
-- IBM Data Engineering Professional Certificate (2025)
-- Google Data Analytics Professional Certificate (2025)
-- A/B Testing & Experimentation — Udacity (2024)
-- AWS Certified Cloud Practitioner *(In Progress)*
-- Claude Certified Architect — Anthropic *(In Progress)*
+**Machine Learning** — PyTorch, TensorFlow, Scikit-learn, Deep Learning, NLP, Transformers (BERT, RoBERTa, T5), XGBoost, LightGBM, Time Series Forecasting, Feature Engineering, A/B Testing
 
----
+**Evaluation & Responsible AI** — LLM Evaluation (Recall@k, NDCG, MRR), Guardrails, Hallucination Mitigation, Bias & Safety Evaluation, Cost/Token Optimization, Model Governance
 
-## 📊 Impact at a Glance
+**Cloud & Data Engineering** — AWS (Bedrock, SageMaker, S3, Lambda, Redshift), Azure (Azure OpenAI, Azure ML), Databricks, Spark, PySpark, ETL/ELT Pipelines, PostgreSQL, MySQL, MongoDB, Snowflake
 
-- 💰 **$40M+** in business decisions influenced through A/B testing and ML
-- 🧪 **25+** A/B experiments shipped using PSM and DiD frameworks
-- 👥 **10M+** monthly active users reached at scale
-- 📈 **18–60%** improvement on key product metrics
-- 🎯 **4+** years building production data products
+**MLOps, Backend & BI** — Docker, Kubernetes, MLflow, Airflow, GitHub Actions, CI/CD, Model Deployment & Monitoring, LangSmith, Langfuse, OpenTelemetry, FastAPI, Flask, REST APIs, Streaming Inference, Power BI, Tableau
 
 ---
 
-## 🤝 Let's Connect!
+## 💼 Experience
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-priya-a-60093b1b4)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saipriyaadama@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipriyadama)
-
-</div>
+| Role | Company | Dates |
+|---|---|---|
+| AI Engineer | NextEra Energy | Feb 2025 – Present |
+| Graduate Teaching Assistant — AI & Python | Florida Atlantic University | Jan 2024 – Dec 2024 |
+| Machine Learning Engineer | Microsoft | Aug 2021 – Dec 2022 |
+| Data Scientist | Flipkart | Mar 2020 – Jul 2021 |
+| Data Scientist | Abbott | Apr 2019 – Feb 2020 |
 
 ---
 
-<div align="center">
+## 🎓 Education
 
- 💫 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+**M.S. in Computer Science** (Secondary Major: Big Data) — Florida Atlantic University · Jan 2023 – Dec 2024
+**B.Tech in Computer Science** — Malla Reddy Institute of Engineering and Technology
 
-**Let's build something meaningful together!**
+---
 
-</div>
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saipriyaadama) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaadama123@gmail.com)
