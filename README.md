@@ -150,7 +150,7 @@ The architecture uses managed AWS services to support reliable reminder processi
 
 **Master of Science in Computer Science**
 Secondary Major: **Big Data**
-*Jan 2023 – Dec 2024*
+ *Jan 2023 – Dec 2024*
 
 ### Malla Reddy Institute of Engineering and Technology
 
